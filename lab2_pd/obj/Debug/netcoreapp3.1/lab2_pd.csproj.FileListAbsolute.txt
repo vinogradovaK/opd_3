@@ -1,0 +1,11 @@
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\bin\Debug\netcoreapp3.1\lab2_pd.exe
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\bin\Debug\netcoreapp3.1\lab2_pd.deps.json
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\bin\Debug\netcoreapp3.1\lab2_pd.runtimeconfig.json
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\bin\Debug\netcoreapp3.1\lab2_pd.runtimeconfig.dev.json
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\bin\Debug\netcoreapp3.1\lab2_pd.dll
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\bin\Debug\netcoreapp3.1\lab2_pd.pdb
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\obj\Debug\netcoreapp3.1\lab2_pd.csprojAssemblyReference.cache
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\obj\Debug\netcoreapp3.1\lab2_pd.AssemblyInfoInputs.cache
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\obj\Debug\netcoreapp3.1\lab2_pd.AssemblyInfo.cs
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\obj\Debug\netcoreapp3.1\lab2_pd.dll
+C:\Users\Katy\source\repos\lab2_pd\lab2_pd\obj\Debug\netcoreapp3.1\lab2_pd.pdb
